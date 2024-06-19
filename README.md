@@ -4,12 +4,12 @@ This project demonstrates the implementation of a Binary Search Tree (BST) in Ja
 
 # Features
 Binary Search Tree Implementation:
--Inorder traversal
--Preorder traversal
--Postorder traversal
++ Inorder traversal
++ Preorder traversal
++ Postorder traversal
 
 CSV Parsing:
--Reads and parses a CSV file containing members of House Baratheon
++ Reads and parses a CSV file containing members of House Baratheon
 
 Relationship Finder:
--Finds and displays the relationship between two members
++ Finds and displays the relationship between two members
