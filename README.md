@@ -1,6 +1,6 @@
 # Binary Search Tree 
 
-This project demonstrates the implementation of a Binary Search Tree (BST) in Java, showcasing preorder, inorder, and postorder traversals. Additionally, it includes a feature to read a CSV file containing information about members of House Baratheon from and allows users to find the relationship between two members by their names.
+This project demonstrates the implementation of a Binary Search Tree (BST) in Java, showcasing preorder, inorder, and postorder traversals. Additionally, it includes a feature to read a CSV file containing information about members of House Baratheon and allows users to find the relationship between two members by their names.
 
 # Features
 Binary Search Tree Implementation:
